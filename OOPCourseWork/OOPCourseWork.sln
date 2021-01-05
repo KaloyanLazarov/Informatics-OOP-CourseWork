@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPCourseWork", "OOPCourseWork\OOPCourseWork.csproj", "{2C76EEFB-D3EA-4792-9F42-EE99BCB8E4F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People", "People\People.csproj", "{DF5F439B-845C-4972-8643-873D1F334845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C76EEFB-D3EA-4792-9F42-EE99BCB8E4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C76EEFB-D3EA-4792-9F42-EE99BCB8E4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C76EEFB-D3EA-4792-9F42-EE99BCB8E4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C76EEFB-D3EA-4792-9F42-EE99BCB8E4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5F439B-845C-4972-8643-873D1F334845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5F439B-845C-4972-8643-873D1F334845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5F439B-845C-4972-8643-873D1F334845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5F439B-845C-4972-8643-873D1F334845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB6DE3F1-11BE-4A89-8C44-B584B3D4C829}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\kaloq\source\repos\OOPCourseWork\People\bin\Debug\People.dll
+C:\Users\kaloq\source\repos\OOPCourseWork\People\bin\Debug\People.pdb
+C:\Users\kaloq\source\repos\OOPCourseWork\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\kaloq\source\repos\OOPCourseWork\People\obj\Debug\People.dll
+C:\Users\kaloq\source\repos\OOPCourseWork\People\obj\Debug\People.pdb
+C:\Users\kaloq\source\repos\OOPCourseWork\People\obj\Debug\People.csprojAssemblyReference.cache

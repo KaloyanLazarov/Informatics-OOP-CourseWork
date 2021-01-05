@@ -1,0 +1,14 @@
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\bin\Debug\OOPCourseWork.exe.config
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\bin\Debug\OOPCourseWork.exe
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\bin\Debug\OOPCourseWork.pdb
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\bin\Debug\People.dll
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\bin\Debug\People.pdb
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\obj\Debug\OOPCourseWork.csprojAssemblyReference.cache
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\obj\Debug\OOPCourseWork.FormSimulation.resources
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\obj\Debug\OOPCourseWork.FormSettings.resources
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\obj\Debug\OOPCourseWork.Properties.Resources.resources
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\obj\Debug\OOPCourseWork.csproj.GenerateResource.cache
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\obj\Debug\OOPCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\obj\Debug\OOPCourseWork.csproj.CopyComplete
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\obj\Debug\OOPCourseWork.exe
+C:\Users\kaloq\source\repos\OOPCourseWork\OOPCourseWork\obj\Debug\OOPCourseWork.pdb
